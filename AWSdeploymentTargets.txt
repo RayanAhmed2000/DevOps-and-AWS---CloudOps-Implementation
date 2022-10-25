@@ -1,0 +1,7 @@
+AWS Deployment Targets
+
+- EC2 / on - prem
+- AWS Lambda
+- AWS ECS (containarized deployments)
+
+ 

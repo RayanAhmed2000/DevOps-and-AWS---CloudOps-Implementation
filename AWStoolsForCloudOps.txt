@@ -8,7 +8,7 @@
     AWS Code Pipeline (Creating CI/CD Pipelines )
     AWS Code Deploy (automate code deployemnt to instances or on prem)
     AWS Codebuild (compiles code and tests and also creates software packages that are ready to be deployed)
-    AWS CodeStar ( quickly build and deploy apps on AWS | centralized managedment of softwares)
+    AWS CodeStar ( quickly build and deploy apps on AWS | centralized managedment of pipeline)
     
 3 - Iaac Tools
     AWS Cloud Formations

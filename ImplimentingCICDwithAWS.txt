@@ -1,0 +1,42 @@
+How to use CI/CD with AWS
+    - use AWS CODE COMMIT to store code committed by developers
+    - use AWS CODE DEPLOY to deploy apps to EC2 Instance
+
+ Services to Implement CI/CD
+    - AWS Code Pipeline
+    - AWS Code commit
+    - AWS Code Build 
+    - AWS Lambda
+    - AWS Kubernetes Services
+
+
+
+Continous Deployment Model - 
+
+
+            Developer
+                |
+            AWS Code commit
+                |
+            AWS Code Build -----------> Amazon ECR
+                |
+            AWS Lambda ----------------> Kubernetes
+
+
+Continous Integration Model - 
+    
+- Go to AWS managaement console
+- search AWS CodePipeline
+- Go to create new Pipeline
+- Step 1 - Source Provider 
+        - select GitHub from Dropdown
+        - select repo 
+        - select master branch
+
+- Step 2 - Build stage
+        - select Build tool
+        - AWS Code build or Jenkins
+
+        
+
+
