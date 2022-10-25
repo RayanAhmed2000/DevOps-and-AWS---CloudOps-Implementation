@@ -1,0 +1,16 @@
+What AWS adds to DevOps
+    - flexible servoces to setup CI/CD Pipeline
+    - Fully managed services
+    - No need to manage underlying infra
+    - Iaac
+    - Automation of tasks
+    - Pay per use model
+
+What are AWS services for DevOps
+    - Code          =       AWS Code Commit (Code Repo)
+    - Build         \       CodePipeline & Code Build (Integrate build and test using Codepipeline)
+    - Test          /
+    - Deploy        =      AWS Code Deploy (a fully managed deployment service which is used to deploy code to various compute services such as EC2/Lambda/as well as On-Prem)
+    - Provision     =      AWS OpsWorks (AWS OpsWorks is a config management service that helps us manage instances using CHEF and PUPPET)
+    - Monitoring    =      AWS CloudWatch (collect data in form of logs and metrics)
+

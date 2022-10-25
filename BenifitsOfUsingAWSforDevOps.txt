@@ -1,0 +1,6 @@
+When we adopts principles using cloud services we term it as cloudops
+
+AWS serverless computing architecture (AWS lambda)
+    - Write code on Lambda / Upload code on Lambda
+    - Define trigger that will invoke the function
+

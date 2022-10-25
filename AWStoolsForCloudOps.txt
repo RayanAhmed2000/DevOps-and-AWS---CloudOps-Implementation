@@ -1,0 +1,20 @@
+1 - Version Control
+    AWS Code commit
+    Fully managed version control system
+    secure commits
+    collaborate on code (merge/branch/restrict who can commit)
+
+2 - CI/CD Tools
+    AWS Code Pipeline (Creating CI/CD Pipelines )
+    AWS Code Deploy (automate code deployemnt to instances or on prem)
+    AWS Codebuild (compiles code and tests and also creates software packages that are ready to be deployed)
+    AWS CodeStar ( quickly build and deploy apps on AWS | centralized managedment of softwares)
+    
+3 - Iaac Tools
+    AWS Cloud Formations
+    AWS OpsWorks (internally uses CHEF)
+
+4 - Monotoring and Logging Tools
+    AWS CloudWatch
+    AWS X-ray 
+    AWS Cloud Trails
